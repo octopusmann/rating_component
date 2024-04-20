@@ -1,0 +1,39 @@
+.redirected-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Overpass", sans-serif;
+  background-color: #181e27;
+  width: 22.4em;
+  height: 22.5em;
+  border-radius: 1.3em;
+  padding: 0 0.7em 0.3em 1.3em;
+}
+
+.payment-image {
+  padding: 0 4em 1em 4em;
+}
+
+.selected-info {
+  width: 14.6em;
+  height: 2.4em;
+  color: #fc7614;
+  background-color: #262e38;
+  border-radius: 15px;
+  margin-left: 2.7em;
+  text-align: center;
+  padding-top: 0.5em;
+  margin-bottom: 2em;
+}
+
+.default-info h2 {
+  color: wheat;
+  margin-left: 3.7em;
+}
+
+.default-info p {
+  color: #969fad;
+  line-height: 1.5em;
+  margin-top: 0.8em;
+  text-align: center;
+}
